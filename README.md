@@ -19,18 +19,18 @@
 - Node.js and npm (or yarn) installed on your system.
 - A Vonage API account and credentials (optional for real-time alerts).
 
-<b>2. Clone the Repository</b>
+<b>2. Clone the Repository</b><br>
 <code>git clone https://github.com/InsiyaMithaiwala/BioScope.git</code>
 
-<b>3. Install Dependencies</b>
+<b>3. Install Dependencies</b><br>
 <code>cd BioScope <br>
 npm install (or yarn install)</code>
 
 <b>4. Configuration</b>
 - Create a .env file in the root directory and enter your Vonage API credentials.
 - Customize other configuration settings as needed (e.g., database connection details).
-- 
-<b>5. Run the Development Server</b>
+  
+<b>5. Run the Development Server</b><br>
 <code>npm start (or yarn start)</code>
 
 BioScope will typically be accessible at http://localhost:3000.
